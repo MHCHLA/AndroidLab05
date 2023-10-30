@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab05</string>
+    <string name="send">ENVOYER</string>
+    <string name="receive">RECEVOIR</string>
+    <string name="text">Tapez ici</string>
+    <string name="alertTitle">Voulez-vous supprimer ceci ?</string>
+</resources>
